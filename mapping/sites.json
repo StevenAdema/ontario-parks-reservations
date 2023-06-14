@@ -1,0 +1,46 @@
+{
+    "mapName": "Charleston Lake",
+    "mapId": 2147483553,
+    "sites": [
+        {
+            "siteName": "510",
+            "siteId": "-2147479764"
+        },
+        {
+            "siteName": "507",
+            "siteId": "-2147479758"
+        },
+        {
+            "siteName": "509",
+            "siteId": "-2147479743"
+        },
+        {
+            "siteName": "502",
+            "siteId": "-2147479732"
+        },
+        {
+            "siteName": "506",
+            "siteId": "-2147479724"
+        },
+        {
+            "siteName": "505",
+            "siteId": "-2147479714"
+        },
+        {
+            "siteName": "504",
+            "siteId": "-2147479694"
+        },
+        {
+            "siteName": "503",
+            "siteId": "-2147479641"
+        },
+        {
+            "siteName": "508",
+            "siteId": "-2147479634"
+        },
+        {
+            "siteName": "501",
+            "siteId": "-2147479723"
+        }
+    ]
+}
