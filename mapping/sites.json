@@ -1,6 +1,6 @@
 {
-    "mapName": "Charleston Lake",
-    "mapId": 2147483553,
+    "park": "Charleston Lake",
+    "mapId": -2147483553,
     "sites": [
         {
             "siteName": "510",
